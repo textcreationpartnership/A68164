@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles accorded for the truce generall in France. Faythfully translated out of the French coppy; printed by Fredericke Morel: ordinarye printer to the King</title>
+            <author>France. Sovereign (1589-1610 : Henry IV)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1593</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68164</idno>
+            <idno type="STC">STC 13117</idno>
+            <idno type="STC">ESTC S117612</idno>
+            <idno type="EEBO-CITATION">99852824</idno>
+            <idno type="PROQUEST">99852824</idno>
+            <idno type="VID">18175</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68164)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 18175)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 567:08, 839:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles accorded for the truce generall in France. Faythfully translated out of the French coppy; printed by Fredericke Morel: ordinarye printer to the King</title>
+                  <author>France. Sovereign (1589-1610 : Henry IV)</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Iohn Wolfe for Andrew White, and are to be solde at the signe of the Gunne, at the little North doore of Paules,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1593.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>31 July 1593.--STC.</note>
+                  <note>Formerly STC 11257.</note>
+                  <note>Identified as STC 11257 on UMI microfilm, reel 567.</note>
+                  <note>Some print show-through.</note>
+                  <note>Reproductions of the original in the British Library (same copy filmed twice).</note>
+                  <note>Appears at reel 567 #8, and at reel 839 #5 (British Library copy, filmed twice).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>France --  History --  Henry IV, 1589-1610 --  E.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:18175:1"/>
+            <!-- PDF PAGE 134 -->
+            <pb facs="tcp:18175:1"/>
+            <!-- PDF PAGE 134 -->
+            <p>ARTICLES accorded for the Truce generall in France.</p>
+            <p>Faythfully tranſlated out of the French Coppy:
+Printed by <hi>Fredericke Morel:</hi> Ordinarye Printer to the King.</p>
+            <figure>
+               <head>I W</head>
+               <figDesc>printer's device of John Wolf</figDesc>
+            </figure>
+            <p>Printed by Iohn Wolfe for Andrew White, and are to be ſolde at the ſigne of the Gunne, at the little North doore of Paules. 1593.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:18175:2"/>
+            <!-- PDF PAGE 135 -->
+            <pb n="1" facs="tcp:18175:2"/>
+            <!-- PDF PAGE 135 -->
+            <head>ARTICLES ACCORDED FOR THE Truce Generall. Faythfully tranſlated out of the French Coppy: Printed by <hi>Fredericke Morel:</hi> ordy<g ref="char:EOLhyphen"/>nary Printer to the King.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat there ſhalbe good and loial Truce and ceaſing from Armes generall: by all the realme, cuntry, landes and Signeuries of the ſame: and of the protection of the crowne of France: for the tyme &amp; ſpace of three monethes to come: vz. in the Iſle of France the day of the publication which ſhalbe made of it at S. Dennis: in the ſame day and from the day after theſe preſent articles ſhalbe ſtayed &amp; ſigned: In the gouernementes of Champaigne, Pi<g ref="char:EOLhyphen"/>cardie, Normandy, Chartres, Orleans and Berry, Touraine Aniou and le Maine eight dayes after the date of the ſame: In the gouernements of Bretaigne, Poictou, Angomois, Xaincttoge, Lymoſin, high and low marche, Burbonois Auuergne, Lyonnois and Bourgongne, <hi>15.</hi> daies after: in the gouernements of Guyenne Languedoc, Prouence, &amp; Dauphinne <hi>20.</hi> daies after the concluſion of the ſaid preſent treaty and yet notwithſtanding ſhal end euery where at lyke day.</p>
+            <p n="2">
+               <pb n="2" facs="tcp:18175:3"/>
+               <!-- PDF PAGE 136 -->
+               <hi>II</hi> All perſons Eccleſiaſticall, nobilitie, inhabitantes of townes of the plaine cuntry &amp; others, may duringe this preſent truce gather their frutes and reuenues, and enioy them in what part ſoeuer they are ſcituate and being: and ſhall reenter into their howſes, and caſtles of the feeldes and thoſe which with hould them ſhal be bound to reſtore them and leaue them free from all hinderances: vppon the charge neuertheleſſe that they may not there make any fortification, duringe the ſaid truce: and here are excepted the howſes, and caſtles: where garriſones are imployed in the e<g ref="char:EOLhyphen"/>ſtate of the warre, which ſhall not be reſtored: neuer<g ref="char:EOLhyphen"/>theleſſe the Proprietares ſhall enioy the fruites and reuenues which belong to them: the whole notwith<g ref="char:EOLhyphen"/>ſtood the guiftes and ſeyſures which ſhould haue bene made, the which may not impeach the effecte of the preſent accord.</p>
+            <p n="3">
+               <hi>III.</hi> It ſhalbe lawfull to all perſons, of what quality or condition ſoeuer they be, to ſtay freely in their owne howſes which they hold at this preſent with their fa<g ref="char:EOLhyphen"/>milies, except in the townes and ſtrong places which are garded in with thoſe whiche are abſent from them by occaſion of the preſent troubles ſhal not be receyued to ſtay there without leaue of the gouernour.</p>
+            <p n="4">
+               <pb facs="tcp:18175:3"/>
+               <!-- PDF PAGE 136 -->
+               <hi>IIII.</hi> The labourees may in all freedome doe their la<g ref="char:EOLhyphen"/>boures and accuſtomed woorkes without hinderance or moleſtation in what manner ſoeuer: vppon paine of death to them which ſhall do the contrary.</p>
+            <p n="5">
+               <hi>V.</hi> The Cariage and conuayence of all ſort of vituals, and the commerce and trafficke of all merchandices: except armes and munitions of warre ſhalbe free as well by water as land in the townes of the one party and the other: in payenge the peages and impoſiti<g ref="char:EOLhyphen"/>ons as they ryſe at this tyme in the Tole houſes which for the ſame effect are eſtabliſhed and following Pan<g ref="char:EOLhyphen"/>cartes and tables herevpon before ſtayed: except in re<g ref="char:EOLhyphen"/>gard of Parts: which ſhalbe payed according the per<g ref="char:EOLhyphen"/>ticuler treatie of the ſame: the whole vpon payne of confiſcation in caſe of fraude: and without that thoſe which ſhall find them ſhall be hindered to bring backe the merchandiſe and horſes which ſhall conduct them vnto the Tolehouſes where they ſhal haue ſo offended: And where violence ſhalbe vſed againſt ſuch, there Iuſtice ſhalbe excecuted as well of the confiſcation as of the exceſſe, by thoſe which ſhall haue commande<g ref="char:EOLhyphen"/>ment ouer the perſons which ſhall haue committed it: and yet neuertheleſſe the ſayde merchandyſes, horſes, victuals nor thoſe which ſhall conduct may not be ſtay<g ref="char:EOLhyphen"/>ed
+<pb facs="tcp:18175:4"/>
+               <!-- PDF PAGE 137 -->within the Balieue of Paris, although they haue not accquitted the ſaide Impoſitions. But vpon the complaynte and purſuite, right ſhall be done to whome it appertaines.</p>
+            <p n="6">
+               <hi>VI.</hi> The ſayd impoſitions or any other new erected du<g ref="char:EOLhyphen"/>ring the ſayd truce may not be augmented, nor any o<g ref="char:EOLhyphen"/>ther Tolehouſe erected but thoſe which are alredye eſtabliſhed.</p>
+            <p n="7">
+               <hi>VII.</hi> Euery man may freelye trauell thorough all the Realme without conſtraint of taking paſporte: And yet neuertheleſſe no man may enter into Townes or ſtronge places of the contrarye part<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> without other armes then the footeman with his ſword &amp; the horſe<g ref="char:EOLhyphen"/>man with his ſword, Piſtolle, or Harquebuſe: and that not without ſending before to aduertiſe thoſe which ſhall haue commaundement there: the which ſhall be enioyned to giue permiſsion of their entraunce, if it be not that the quality &amp; number of perſons ſhould giue iuſt cauſe of ielouſie: of the ſcarcety of the place where they ſhall commaund, the which is remittted to their iudgement and diſcretion. And if any of the contra<g ref="char:EOLhyphen"/>ry part were entred into any of the ſayde places with<g ref="char:EOLhyphen"/>out being declared ſuch, and to haue the ſayde permiſ<g ref="char:EOLhyphen"/>ſion: They ſhall bee lawfull Priſe. And to preuent
+<pb n="5" facs="tcp:18175:4"/>
+               <!-- PDF PAGE 137 -->further diſputes that might bee inferred vppon this poynt, thoſe which commaund in the ſayde places ac<g ref="char:EOLhyphen"/>cording to the ſayd permiſsion, ſhalbe bound to giue it in writing without any defray.</p>
+            <p n="8">
+               <hi>VIII.</hi> The money of Taxſes and Aſſeſments ſhalbe leui<g ref="char:EOLhyphen"/>ed as they haue beene heretofore according to the de<g ref="char:EOLhyphen"/>partments made, and commiſſions ſent from one part to another at the beginning of the yeare: except in re<g ref="char:EOLhyphen"/>gard of the places taken ſince the ſending of the ſayde conditions in which y<hi rend="sup">e</hi> Gouernours &amp; Officers of ſuch places ſhall accord particularly, and without preiudice likewiſe of other particular accordes and treaties al<g ref="char:EOLhyphen"/>ready made for leauy of the ſayde Taxes and Aſſeſ<g ref="char:EOLhyphen"/>ments which ſhall be entertayned and obſerued.</p>
+            <p n="9">
+               <hi>IX.</hi> Yet notwithſtanding ſuch may not be leauyed by anticipation of the quarters, but onely the quarter running on, and that by Officers of the Election: the which in caſe reſiſtaunce be made ſhall haue recourſe to the Gouernour of the next towne of their ſide to bee aſſiſted of forces: and yet neuertheleſſe ſhall not for this cauſe be exacted for the defray but after the rate of one ſhilling in the pounde for the Summes for which
+<pb n="6" facs="tcp:18175:5"/>
+               <!-- PDF PAGE 138 -->the conſtraintes ſhalbe made.</p>
+            <p n="10">
+               <hi>X</hi> As touching the Arrerages of Taxes and Aſſeſ<g ref="char:EOLhyphen"/>ments there ſhall bee none leuyed of eyther part, fur<g ref="char:EOLhyphen"/>ther then the ſayd quarter, running on and during the time of the ſame. if it be not an other quarter which is due aboue the already paſſed.</p>
+            <p n="11">
+               <hi>XI.</hi> Theſe which at this time be Priſoners of the warre and haue not compounded for their Ranſome ſhall bee deliuered xv. dayes after the publication of the ſayde Truce <hi>viz.</hi> the common Souldiour without ranſome, the other men of warre hauing pay of eyther ſide pro<g ref="char:EOLhyphen"/>curing one quarter of their pay: except the Leaders and cheefe of Horſemen the which together with o<g ref="char:EOLhyphen"/>ther Gentlemen not bearing charge, ſhall be acquitted for the halfe yeares woorth of their Reuenewe: and alſo other perſons ſhall bee vſed as touchig their ran<g ref="char:EOLhyphen"/>ſome as cuteouſlye as may be reſpecting their facul<g ref="char:EOLhyphen"/>ties and callinge: And if there bee eyther Woman or Mayde Priſoner they ſhall be preſently ſet at libertye without paying Ranſome, and alſo Children vnder the age of ſixteene and from ſixty vpward not bearing Armes.</p>
+            <p n="12">
+               <hi>XII.</hi> That there ſhall not bee during the tyme of the ſayd Truce any enterpriſe or attempt vppon any place of ei<g ref="char:EOLhyphen"/>ther
+<pb n="7" facs="tcp:18175:5"/>
+               <!-- PDF PAGE 138 -->parte, nor any other Act of Hoſtilitie: And if any one ſhoulde in this poynt, the cheefe and Gouernours ſhall ſee amendes made or puniſh the Offenders as troublers of publicke quiet: yet ſo that neuertheleſſe the ſayde puniſhments may not bee cauſe of breach to the ſayd League.</p>
+            <p n="13">
+               <hi>XIII.</hi> If any ſhall refuſe to obay the contents of the ſayd Articles: the cheefe of that partie ſhall doe all his en<g ref="char:EOLhyphen"/>deuour and vſe what meanes poſsibly hee may to con<g ref="char:EOLhyphen"/>ſtrayne ſuch thereunto: And where within fifteene daies after the requiſition which ſhall be made, executi<g ref="char:EOLhyphen"/>on ſhould immediatly follow: it ſhall be lawfull for the cheefe of the other partie to make warre on him or them which ſo ſhould refuſe to doe inſtice, without a<g ref="char:EOLhyphen"/>ny aſsiſtaunce of his owne, partlie in any kinde how<g ref="char:EOLhyphen"/>ſoeuer.</p>
+            <p n="14">
+               <hi>XIIII.</hi> It ſhall not bee lawfull to take of newe any places during the preſent Truce to fortefie them, notwith<g ref="char:EOLhyphen"/>ſtanding they were not held of any body.</p>
+            <p n="15">
+               <hi>XV.</hi> All men of warre of eyther ſyde ſhall be put in gari<g ref="char:EOLhyphen"/>ſon not being permitted to range and forage the cun<g ref="char:EOLhyphen"/>try to the harme of the people ane ruines of the plaine cuntry.</p>
+            <p n="16">
+               <pb n="8" facs="tcp:18175:6"/>
+               <!-- PDF PAGE 139 -->
+               <hi>XVI.</hi> The Prouoſtes of the marſhals ſhall performe their charges, on al prayes in the fieldes or cuntry, and pu<g ref="char:EOLhyphen"/>niſhing wronges without diſtruction of parties, vpon payne of ſendinge them to the Iudges to whom the knowledge thereof ought to belong.</p>
+            <p n="17">
+               <hi>XVII.</hi> It ſhall not be lawfull to picke quarrelles anew by aſſembling any frendes for differences hapned by rea<g ref="char:EOLhyphen"/>ſon of theſe preſent troubles be it for taking of any per<g ref="char:EOLhyphen"/>ſon, howſe, caſtelles or other occaſion whatſoeuer du<g ref="char:EOLhyphen"/>ring the tyme of this truce.</p>
+            <p n="18">
+               <hi>XVIII.</hi> The gouernors and lieutenantes generall of both ſydes ſhall aſſemble themſelues in euery prouince pre<g ref="char:EOLhyphen"/>ſently vpon publication of the preſent trety where they ſhall depute commiſſaries of their parte to ſee vnto what ſoeuer ſhalbe neceſſary for the excecution thereof for the profit and good of ſuch as they haue vnder them, and where it ſhalbe thought good and neceſſary to ad anie thing more, to correct or deminiſh any thing for the perticular good of the ſaid prouince they ſhal ad<g ref="char:EOLhyphen"/>uertiſe their cheefes or gouernors to prouide accor<g ref="char:EOLhyphen"/>dingly.</p>
+            <p n="19">
+               <pb n="9" facs="tcp:18175:6"/>
+               <!-- PDF PAGE 139 -->
+               <hi>XIX.</hi> Theſe preſent Articles are accorded without inten<g ref="char:EOLhyphen"/>tion of preiudice to the accordes and particuler agree<g ref="char:EOLhyphen"/>ments made betweene the gouernors and lieftenants generall of the prouinces which haue bene confermed and approued by the cheefe of both parties.</p>
+            <p n="20">
+               <hi>XX.</hi> No enterpriſes ſhall bee made duringe the preſente Truce by one or other ſide vppon the Countries, goods &amp; Subiects of y<hi rend="sup">e</hi> Princes which haue aſsiſted the<g ref="char:cmbAbbrStroke">̄</g>: as againe the ſayd Princes ſhall not on their parte enter<g ref="char:EOLhyphen"/>priſe any thing againſt this Realme and Countrey beinge in the Protection of the Crowne of Fraunce. But the ſayd Princes ſhall retyre out of them preſent<g ref="char:EOLhyphen"/>ly (vppon the concluſion of this preſent treatie) their forces which are in the Fielde and ſhall not make anye re-enter of them during the ſayd time: And as touch<g ref="char:EOLhyphen"/>ing thoſe which are in Brittaine they ſhal be ſent back or ſeperated, and put in garriſon in ſuch places as may not giue matter of ſuſpect, and as for other Prouinces or places where there be ſtraungers in Garriſon, the number of the ſayd ſtraungers being in pay of the ſaid Princes it may not be augmented during the tyme of the ſayd Truce: the which the Chiefe of both parties promiſe reſpectiuely for the ſayd Princes, and thereun<g ref="char:EOLhyphen"/>to bind their faith and honour: And yet notwithſtan<g ref="char:EOLhyphen"/>ding the ſayd promiſe may not extend to the Duke of Sauoye: but if he will be compriſd in the ſame tretye
+<pb n="10" facs="tcp:18175:7"/>
+               <!-- PDF PAGE 140 -->ſending his declaration within one monthhe then ſhal be reſolued to the common good of both parties.</p>
+            <p n="21">
+               <hi>XXI.</hi> The Embaſſadors Agents and leggers of foraine Princes which haue aſsiſted either partie, hauing paſ<g ref="char:EOLhyphen"/>porte from the cheefe of the ſaid partie which they haue aſſiſted may freelie returne &amp; in all ſurety without ha<g ref="char:EOLhyphen"/>uing need of any other paſporte then this preſent trea<g ref="char:EOLhyphen"/>ty: So neuertheleſſe that they ſhall not enter into any towne or ſtronge place of the aduerſe parte but with licence of the gouernors,</p>
+            <p n="22">
+               <hi>XXII.</hi> That on eyther ſyde paſportes ſhalbe geuen to ſuch as reſpectiuely ſhalbe ſente to beare the ſaide Treaty into euery of the ſaide prouinces where it ſhalbe requi<g ref="char:EOLhyphen"/>ſite.</p>
+            <argument>
+               <p>Made and accorde in the little towne betweene Paris and S. Denis the laſte day of Iuly 1593. by ſound of the trompet and proclamation in places accuſtomed. And is ſigned in the originall: Henry and Charles de Lorrayne and Below: Ruſé and Baudouin.</p>
+            </argument>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:18175:7"/>
+            <!-- PDF PAGE 140 -->
+         </div>
+      </body>
+   </text>
+</TEI>
